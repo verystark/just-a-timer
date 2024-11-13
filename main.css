@@ -1,0 +1,28 @@
+body {
+    background: #2d2d30;
+    text-align: center;
+}
+
+header {
+    color: #2d2d30;
+    font-size: 0.5px;
+}
+
+.timer {
+    margin-top: 100px;
+}
+
+.clock {
+    height: 400px;
+    width: 800px;
+    background-color: white;
+    border-radius: 40px;
+    margin: auto;
+    border: 100px;
+    border-color: blue;
+    font-family: Arial;
+}
+
+.time {
+    font-size: 150px;
+}
